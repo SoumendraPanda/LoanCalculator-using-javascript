@@ -1,7 +1,5 @@
 # LoanCalculator-using-javascript
-
-
-So this project is a loan calculator.
+this project is a loan calculator.
 
 This is something that an actual accountant could use to quickly show their clients how long it would
 
